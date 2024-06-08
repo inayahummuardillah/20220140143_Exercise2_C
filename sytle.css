@@ -1,0 +1,39 @@
+body {
+    padding-top: 60px;
+}
+
+.section {
+    padding: 60px 0;
+    color: rgb(141, 178, 194);
+}
+
+.bg-home {
+    background: url('https://example.com/home-bg.jpg') no-repeat center center/cover;
+}
+
+.bg-about {
+    background: url('https://example.com/about-bg.jpg') no-repeat center center/cover;
+}
+
+.bg-contact {
+    background: url('https://example.com/contact-bg.jpg') no-repeat center center/cover;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    margin-left: 15px;
+}
+
+.form-group label {
+    color: rgb(4, 90, 236);
+}
+
+.btn-primary, .btn-secondary {
+    width: 100px;
+    margin-top: 10px;
+}
